@@ -1,0 +1,38 @@
+@media only screen and (min-device-width : 900px) {
+	body {
+		padding : 40px 350px;
+	}
+	.page-header {
+		margin-left : -50px;
+	}
+}
+
+body {
+	box-sizing : border-box;
+}
+
+img {
+	display : block;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+.jersey-text {
+	padding : 30px 50px;
+}
+
+.centered-text {
+	text-align : center;
+}
+
+.underlined-header {
+	text-decoration : underline;
+}
+
+li {
+	padding : 5px;
+}
+
+.bold {
+	font-weight : 600;
+}
